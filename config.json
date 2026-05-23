@@ -8,6 +8,10 @@
   "peerJsServerFallback": "https://p2p.mcraft.fun",
   "promoteServers": [
     {
+      "ip": "206.168.191.111:19451",
+      "name": "Main Server"
+    }
+    {
       "ip": "wss://play.mcraft.fun"
     },
     {
